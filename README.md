@@ -1,2 +1,2 @@
-# waste is notwaste
+# do your work
 do well
